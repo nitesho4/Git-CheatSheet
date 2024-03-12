@@ -13,7 +13,7 @@ Welcome to the Git Cheat Sheet repository! This repository contains a collection
 To get started, simply clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/git-cheat-sheet.git
+git clone https://github.com/nitesho4/Git-CheatSheet.git
 
 Usage
 Browse through the cheat sheet to find the command you need. Each command is accompanied by a brief description and example usage.
